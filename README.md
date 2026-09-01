@@ -1,2 +1,2 @@
 # mis561-portfolio
-This portfolio contains work created in MIS 561 showcasing data visualization techniques and concepts.
+Portfolio containing work created in a course showcasing data visualization techniques and concepts.
