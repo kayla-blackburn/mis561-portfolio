@@ -17,3 +17,7 @@ My business intelligence skills have grown through recent training courses. My F
 At Southwest Office Solutions, Excel is most useful for cleaning data or quickly checking a number. Tableau is better once all of the data has been gathered and needs to be explored for better understanding. Power BI is best when calculations can be defined once within the model and new data can be added over time. One gap in my Power BI Desktop experience is that I have not yet run it against real company data. To close this gap, I will practice with real datasets to gain experience handling real data in the program.
 Anthropic. (2026). Claude (Oct. 2026 version) [Large language model]. https://claude.ai
 I used Claude (Anthropic, 2026) to refine my writing in order to more clearly convey my own ideas based on a draft I wrote using a promt to refine the writing without changing my ideas or writing voice.
+
+Card Portfolio Review, This dashboard is for Renee Castillo, the Director of Card Operations at Bear Down Bank so that she can decide which batch of non-contactless cards to replace.
+https://public.tableau.com/views/CardPortfolio-Flex8/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+If I did this assignment again I would have spent more time exploring the different functionality in tableau to create a more convincing argument for my chosen solution.
