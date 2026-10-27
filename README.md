@@ -21,3 +21,7 @@ I used Claude (Anthropic, 2026) to refine my writing in order to more clearly co
 Card Portfolio Review, This dashboard is for Renee Castillo, the Director of Card Operations at Bear Down Bank so that she can decide which batch of non-contactless cards to replace.
 https://public.tableau.com/views/CardPortfolio-Flex8/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 If I did this assignment again I would have spent more time exploring the different functionality in tableau to create a more convincing argument for my chosen solution.
+
+Card Growth Analysis – Wildcat Rewards Offer, Which customers of Bear Down Bank should be mailed a pre-approved offer for the banks new Credit Card pilot program?
+https://public.tableau.com/views/CardGrowthAnalysis-BearDownBank/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+If I did this assignment again I would spend more time exploring the possible visual options to make a decision that was more widespread, perhaps spanning a larger group of states. 
