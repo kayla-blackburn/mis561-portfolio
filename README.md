@@ -25,3 +25,13 @@ If I did this assignment again I would have spent more time exploring the differ
 Card Growth Analysis – Wildcat Rewards Offer, Which customers of Bear Down Bank should be mailed a pre-approved offer for the banks new Credit Card pilot program?
 https://public.tableau.com/views/CardGrowthAnalysis-BearDownBank/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 If I did this assignment again I would spend more time exploring the possible visual options to make a decision that was more widespread, perhaps spanning a larger group of states. 
+
+Nov 2, 2026 · Data Storytelling with Adobe Express
+
+Work sample for the CFO of Southwest Office Solutions, for Which product lines to reprice, stop discounting, or stop carrying.
+
+[Work sample (PDF)] https://github.com/kayla-blackburn/mis561-portfolio/blob/main/adobe/blackburn-data-storytelling.pdf · [Adobe Express] https://new.express.adobe.com/id/urn:aaid:sc:US:bbde5e24-e1b6-58bc-a42e-aa895446f1a6?accept=true&invite=true&promoid=Z2G1FQKR&mv=other 
+
+Design choice: I used a bar graph which shows the profit of each subcategory that a product was sorted into within the dataset because it shows definitively why tables, the subcategory chosen, pose an issue. Also considered for this visual was another graph, though it added more data than needed for the decision to be made and caused clutter in the overall page. Not including that piece gives a clean and clear solution without giving the viewer too much to have to work out on the spot.
+
+Training completed: Nov 2, 2026
