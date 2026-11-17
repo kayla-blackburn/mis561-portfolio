@@ -35,3 +35,15 @@ Work sample for the CFO of Southwest Office Solutions, for Which product lines t
 Design choice: I used a bar graph which shows the profit of each subcategory that a product was sorted into within the dataset because it shows definitively why tables, the subcategory chosen, pose an issue. Also considered for this visual was another graph, though it added more data than needed for the decision to be made and caused clutter in the overall page. Not including that piece gives a clean and clear solution without giving the viewer too much to have to work out on the spot.
 
 Training completed: Nov 2, 2026
+
+Nov 16, 2026 · Product Pitch with Generative AI in Adobe Express
+
+Pitch to the CFO of Southwest Office Solutions: approve a six-week first phase to find the optimal price and discount level for table subcategory.
+
+[Pitch deck (PDF)] https://github.com/kayla-blackburn/mis561-portfolio/blob/main/adobe/blackburn-product-pitch.pdf%20.pdf · [Adobe Express] https://new.express.adobe.com/id/urn:aaid:sc:US:b63aab6e-d05b-532b-a0c4-082bab1fae3a?accept=true&invite=true&promoid=Z2G1FQKR&mv=other
+
+Toughest objection: "Will cutting discounts lower table sales and in turn lower profit?" Slide 6 answers it: Tables profit with just those with less than 20% discounts accounted for.
+
+AI use: Claude by Anthropic was used to determine what the toughest objection would be by the executive in question, Nov 16, 2026.
+
+Training completed: Nov 16, 2026 
