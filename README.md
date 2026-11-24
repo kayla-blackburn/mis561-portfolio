@@ -52,7 +52,7 @@ Nov 23, 2026 · Brand Standard Application in Tableau
 
 Rebranded a public IMDb movie dashboard, then built a brief for Alicia Grant, Manager of Advertiser Partnerships: Do family-friendly movies draw enough audience engagement to support their own package, and how do they compare with R-rated movies?
 
-[Tableau workbook](https://public.tableau.com/app/profile/kayla.blackburn/viz/DataPlusMovies2000-2022_17954909018490/DataMoviesIMDBDashboard)
+[Tableau workbook] (https://public.tableau.com/app/profile/kayla.blackburn/viz/DataPlusMovies2000-2022_17954909018490/DataMoviesIMDBDashboard)
 
 One thing I’d change: I would spend more time analyzing all potential data, not just the fields specified in the decision scenario.
 
